@@ -16,6 +16,6 @@
   "bugs": "https://github.com/onurgvnc/acorn-with-stage3/issues",
   "dependencies": {
     "acorn-base": "npm:acorn@^6",
-    "acorn-stage3": "^1.0.0"
+    "acorn-stage3": "^2.1.0"
   }
 }
